@@ -23,8 +23,8 @@ CURVETOPIA is a comprehensive toolset designed for identifying, regularizing, an
 
 ## Prerequisites
 
-- Python 3.7+
-- Required Python packages: See `requirements.txt` for details.
+- Python 3.7
+- Training and testing dataset.
 
 ## Usage
 
