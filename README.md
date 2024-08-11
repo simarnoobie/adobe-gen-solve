@@ -1,5 +1,5 @@
 
-
+**important** we could not completely train the model due to computation limitation however we have developed a complete model.
 
 # CURVETOPIA: Curve Regularization and Beautification Pipeline
 
