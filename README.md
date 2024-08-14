@@ -62,5 +62,4 @@ This will process the images and Bezier curves according to the steps outlined a
 For questions or contributions, feel free to contact the developers:
 
 - **Gursimardeep singh**: simardeep2004z@gmail.com
-- **Ekamjot singh**: ekmajotjaggi2511@gmail.com
-
+- **Ekamjot singh**:ekamjotjaggi2511@gmail.com
